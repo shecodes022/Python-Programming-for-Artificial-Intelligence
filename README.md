@@ -1,6 +1,6 @@
 # About this Repository 📌
 
-This repository contains the project I did as a part of the coursework for the module [Python Programming for Artificial Intelligence](https://qmplus.qmul.ac.uk/course/view.php?id=29228). The assignment consisted of several tasks built around a student "Happiness Dataset", covering data cleaning, custom NumPy functions, statistical analysis, visualisation and a distance-based similarity measure.
+This repository contains the project I did as a part of the coursework for the module Python Programming for Artificial Intelligence. The assignment consisted of several tasks built around a student "Happiness Dataset", covering data cleaning, custom NumPy functions, statistical analysis, visualisation and a distance-based similarity measure.
 
 
 # Key Takeaways 🔍
@@ -35,7 +35,7 @@ This repository contains the project I did as a part of the coursework for the m
 # Repository Structure 🌲
 ```text
 ├── Python_Project.ipynb
-├── Happiness_Data.csv
+├── .gitattributes
 └── README.md
 ```
 
